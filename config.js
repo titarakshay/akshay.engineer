@@ -14,11 +14,11 @@ module.exports = {
   siteUrl: 'http://localhost:8000',
   social: {
     // leave the social media you do not want to appear as empty strings
-    twitter: '',
+    twitter: 'akshaytitar',
     medium: '@197akshaytitar',
     facebook: '',
-    github: '',
-    linkedin: '',
+    github: 'titarakshay',
+    linkedin: 'akshay-titar-b65446197',
     instagram: '',
   },
 }
